@@ -1,0 +1,48 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/public/*": ["./public/*"],
+      "@components/*": ["components/*"],
+      "@/pages/*": ["pages/*"],
+      "@state/*": ["state/*"],
+      "@constants/*": ["constants/*"],
+      "@styles/*": ["styles/*"],
+      "@lib/*": ["lib/*"],
+      "@utils/*": ["utils/*"]
+    },
+    "incremental": true
+  },
+  "exclude": ["node_modules"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "pages/_document.js",
+    "pages/_offline.js",
+    "components/home/author.tsx",
+    "components/home/hero.jsx",
+    "components/home/navbar.jsx",
+    "components/home/navbar.jsx",
+    "components/home/container.jsx",
+    "components/home/Button.jsx",
+    "pages/_app.tsx",
+    "pages/navbar.js",
+    "components/addressAutoComplete.tsx",
+    "components/appbar/mobileSideBarMenu"
+, "next-sitemap.config.js"  ]
+}

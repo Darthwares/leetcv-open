@@ -1,0 +1,19 @@
+{
+  "Faq": {
+    "QuestionOne": "What is LeetCV?",
+    "QuestionTwo": "Do I need anything special to use it?",
+    "descriptionOne": "Resume of the future. For 20+ years we have been using PDF for resume, it is time to move forward to the new age of mobile responsive, sharable, passcode protected",
+    "descriptionTwo": "All you need to use LeetCV is an internet connection or a mobile phone. Join us here! Once you're in, begin finding and following accounts whose resumes interest you. We'll recommend great accounts once you're signed up.",
+    "title": " FAQ",
+    "paragraph": "How can we help you?",
+    "browseHelp": "Browse help topics",
+    "faq": "FAQ | LeetCV"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "managedBy": " - Managed by Darthwares",
+    "footer": "Copyright",
+    "downloadApp": "Download the app",
+    "scanQrCode": "Scan the QR code to download the app."
+  }
+}

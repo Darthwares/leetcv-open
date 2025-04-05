@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.leetcv.com
+
+# Sitemaps
+Sitemap: https://www.leetcv.com/sitemap.xml
+Sitemap: https://www.leetcv.com/server-sitemap.xml

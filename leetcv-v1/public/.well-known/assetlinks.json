@@ -1,0 +1,39 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leetcv.twa",
+      "sha256_cert_fingerprints": [
+        "73:8F:26:71:50:29:CC:EE:3C:07:85:D5:DF:D1:2B:C9:95:37:86:81:D9:7C:1E:0B:F2:63:CC:FA:B3:8E:A6:50"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.leet_campus.twa",
+      "sha256_cert_fingerprints": [
+        "A6:B9:6A:B4:6A:11:A1:E0:2F:D5:97:7F:9A:4F:D8:6B:63:95:51:B1:3A:75:A7:81:8E:DA:B1:B7:12:8D:28:7D",
+        "CB:3A:B6:EB:E3:49:4D:BB:D3:41:53:68:C8:CF:40:6E:96:A8:B9:28:29:C3:49:47:8A:13:66:62:26:7F:E1:51"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leetcv.app",
+      "sha256_cert_fingerprints": [
+        "22:F3:F2:6C:18:2B:3B:32:FD:15:58:DC:BF:16:E8:C7:56:57:39:C8:9B:89:21:5A:EA:42:90:6B:A6:8F:61:15"
+      ]
+    }
+  }
+]

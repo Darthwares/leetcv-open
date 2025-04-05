@@ -1,0 +1,171 @@
+{
+  "ProfileHeader": {
+    "viewResume": "View Resume",
+    "featureSkills": "Featured Skills",
+    "requestAccess": "Request Access",
+    "profileAccess": "Profile is marked as private",
+    "writeReview": "Write a review",
+    "messageRequired": "Message is required",
+    "submit": "Submit",
+    "requestSent": "Request has been successfully sent.",
+    "appovedAccess": "Enter Passcode",
+    "deniedAccess": "Profile Access is Denied",
+    "pendingAccess": "Profile Access is Pending",
+    "approved": "Approved",
+    "denied": "Denied",
+    "pending": "Pending",
+    "loading": "Loading...",
+    "status": "Status",
+    "addReview": "Submit a Review",
+    "resume": "Resume",
+    "discard": "Discard",
+    "private": "Private",
+    "more": "More",
+    "or": "OR",
+    "share": "Share",
+    "loginToViewResume": "Login to View Resume",
+    "loader": "Loading . . ."
+  },
+  "PasscodeVerify": {
+    "verifyPasscode": "Incorrect password! try again!",
+    "enter6digit": "Enter 6-digit code for authentication",
+    "enterPasscode": "Enter passcode",
+    "passcodeFailed": "Passcode incorrect!",
+    "passcodeLessThanSix": "Enter full passcode!",
+    "passcodeNotEntered": "Passcode not entered!"
+  },
+  "Notification": {
+    "passcodeVerified": "Passcode Verified",
+    "passcodeDoesNotMatch": "Passcode Does Not Match",
+    "successfully": "Requested Successfully"
+  },
+  "Status": {
+    "personalDetails": "Personal details",
+    "fullName": "Full name",
+    "workProfession": "Work Profession",
+    "email": "Email",
+    "phNumber": "Ph.Number",
+    "address": "Address",
+    "skills": "Skills",
+    "educationDetails": "Education Details",
+    "nameOfDegree": "Name of Degree",
+    "grade": "Grade",
+    "studiedMajor": "Studied Major",
+    "collegeName": "College Name",
+    "projectDetails": "Project Details",
+    "title": "Title",
+    "start": "Start",
+    "summary": "Summary",
+    "company": "Company",
+    "awards": "Awards",
+    "description": "Description",
+    "name": "Name"
+  },
+  "EducationData": {
+    "education": "Education",
+    "degree": "Degree : ",
+    "major": "Major : ",
+    "grade": "Grade : ",
+    "score": "Score - ",
+    "university": "College/University : ",
+    "educationNotFound": "Education details not found",
+    "review": "Review"
+  },
+  "CertificateData": {
+    "certifications": "Certifications",
+    "issued": "Issued",
+    "noExpiry": "- No Expiry",
+    "CredentialId": "Credential ID:",
+    "showCredential": "Show Credential"
+  },
+  "ExperienceData": {
+    "experience": "Work Experience",
+    "experienceNotFound": "Experiences details not found",
+    "review": "Review",
+    "work": "Work"
+  },
+  "CauseData": {
+    "causes": "Causes"
+  },
+  "ProjectData": {
+    "work": "Work",
+    "impact": "Impact",
+    "noProject": "Project details not found!",
+    "project": "Projects",
+    "projectSkills": "Skills",
+    "present": " - Present",
+    "seeMore": "See More",
+    "seeLess": "See Less",
+    "checkDate": "Inv Invalid Date",
+    "review": "Review",
+    "projectIdeas": "Project Recommendations"
+  },
+  "Awards": {
+    "title": "Achievements and Awards",
+    "awardNotFound": "Award details not found!",
+    "review": "Review"
+  },
+  "ReviewModal": {
+    "submit": "Submit",
+    "unresolved": "Unresolved",
+    "reviews": "Reviews",
+    "resolved": "Resolved",
+    "cancel": "Cancel",
+    "resume": "resume",
+    "userGivenFeedback": "Feedback given for ",
+    "receivedFeedback": "Received all reviews",
+    "selectSection": "Select Section",
+    "myReviews": "My Reviews",
+    "pending": "Pending",
+    "emptyReview": "Review Cannot be empty.",
+    "reviewSuccess": "Review is submitted successful!",
+    "reviewError": "Review submission failed. Please try again.",
+    "writeReview": "Write review",
+    "writeFeedFor": "Provide constructive feedback on",
+    "feelFree": "resume to support its improvement",
+    "reviewOf": "Your review of",
+    "section": "Section",
+    "description": "Description",
+    "refine": "Refine",
+    "accept": "Accept",
+    "alreadyReviewBy": "Already Reviewed By",
+    "addReview": "Add Review",
+    "noReview": "You will be the first user to review this resume"
+  },
+  "SocialMedia": {
+    "social": "Social Media"
+  },
+  "Preference": {
+    "preference": "Preference"
+  },
+  "ReviewButton": {
+    "reviewAdded": "Review Added",
+    "reviewFailed": "Review Failed to Add",
+    "addReview": "Add a review",
+    "myReviews": "My Review(s)",
+    "profileReviews": "Profile Review(s)",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "resolved": "Resolved"
+  },
+  "Referral": {
+    "copy": "Copy",
+    "copied": "Copied",
+    "yourReferralLink": "Your Referral Link",
+    "professionalResume": "Craft your professional resume on LeetCV in just 10 minutes! 🚀 Use my referral code ",
+    "exclusiveOffer": " for an exclusive offer. Let's elevate our careers together!",
+    "youAndYourColleague": "You and your colleague will get each 1000 tokens",
+    "referralTokens": "1 Referral = 1000 tokens",
+    "youHaveEarned": "You've earned till now",
+    "acceptedReferral": "Accepted your referral invite"
+  },
+  "Messages": {
+    "messages": "Messages",
+    "chats": "Chats",
+    "remove": "Remove",
+    "typeYourMsg": "Type your message...",
+    "notFound": "No chats found",
+    "noConversation": "Looks like there is no conversation to load at the moment, stay tuned!",
+    "success":"Successfully sent message"
+  }
+}
