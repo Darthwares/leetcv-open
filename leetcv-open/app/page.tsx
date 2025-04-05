@@ -1,4 +1,13 @@
 import Image from "next/image";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 
 export default function Home() {
   return (
@@ -24,6 +33,32 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
         </ol>
+        
+        <div className="flex flex-col gap-8 w-full max-w-xl">
+          <h2 className="text-2xl font-bold">Shadcn UI Components</h2>
+          
+          <div className="flex flex-wrap gap-4">
+            <Button variant="default">Default Button</Button>
+            <Button variant="destructive">Destructive</Button>
+            <Button variant="outline">Outline</Button>
+            <Button variant="secondary">Secondary</Button>
+            <Button variant="ghost">Ghost</Button>
+            <Button variant="link">Link Button</Button>
+          </div>
+          
+          <Card>
+            <CardHeader>
+              <CardTitle>Card Title</CardTitle>
+              <CardDescription>Card Description</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <p>This is a Shadcn UI Card component. You can use it to display content in a contained format.</p>
+            </CardContent>
+            <CardFooter>
+              <Button>Action</Button>
+            </CardFooter>
+          </Card>
+        </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
