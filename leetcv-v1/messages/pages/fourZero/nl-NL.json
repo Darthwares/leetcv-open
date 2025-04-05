@@ -1,0 +1,16 @@
+{
+  "404": {
+    "lost": "Uh oh! I think you’re lost.",
+    "doseNotExist": "But dont worry, you can find plenty of other things on our homepage.",
+    "goBackHome": "Go back home",
+    "notFound": "Sorry, we could not find this page.",
+    "error404": "404"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "managedBy": " - Managed by Darthwares",
+    "footer": "Copyright",
+    "downloadApp": "Download the app",
+    "scanQrCode": "Scan the QR code to download the app."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "ProfileHeader": {
+    "viewResume": "View Resume",
+    "requestAccess": "Request Access",
+    "profileAccess": "Profile is marked as private",
+    "writeReview": "Write a review",
+    "messageRequired": "Message is required",
+    "submit": "Submit",
+    "requestSent": "Request has been successfully sent.",
+    "appovedAccess": "Enter Passcode",
+    "deniedAccess": "Profile Access is Denied",
+    "pendingAccess": "Profile Access is Pending",
+    "approved": "Approved",
+    "denied": "Denied",
+    "pending": "Pending",
+    "loading": "Loading...",
+    "status": "Status",
+    "addReview": "Submit a Review",
+    "resume": "Resume",
+    "discard": "Discard",
+    "handle": "Handle",
+    "needPasscode": "You need a valid passcode",
+    "private": "Private Resume",
+    "more": "More",
+    "or": "OR",
+    "loginToViewResume": "Login to View Resume"
+  },
+  "PasscodeVerify": {
+    "verifyPasscode": "Verify Passcode",
+    "enterPasscode": "Enter passcode",
+    "passcodeFailed": "Passcode incorrect!",
+    "passcodeLessThanSix": "Enter full passcode!",
+    "passcodeNotEntered": "Passcode not entered!"
+  },
+  "Notification": {
+    "passcodeVerified": "Passcode Verified",
+    "passcodeDoesNotMatch": "Passcode Does Not Match",
+    "successfully": "Requested Successfully"
+  },
+  "Status": {
+    "personalDetails": "Personal details",
+    "fullName": "Full name",
+    "workProfession": "Work Profession",
+    "email": "Email",
+    "phNumber": "Ph.Number",
+    "address": "Address",
+    "skills": "Skills",
+    "educationDetails": "Education Details",
+    "nameOfDegree": "Name of Degree",
+    "grade": "Grade",
+    "studiedMajor": "Studied Major",
+    "collegeName": "College Name",
+    "projectDetails": "Project Details",
+    "title": "Title",
+    "start": "Start",
+    "summary": "Summary",
+    "company": "Company",
+    "awards": "Awards",
+    "description": "Description",
+    "name": "Name"
+  },
+  "EducationData": {
+    "education": "Education",
+    "degree": "Degree : ",
+    "major": "Major : ",
+    "grade": "Grade : ",
+    "university": "College/University : ",
+    "educationNotFound": "Education details not found"
+  },
+  "CertificateData": {
+    "certifications": "Certifications",
+    "issued": "Issued",
+    "noExpiry": "- No Expiry",
+    "CredentialId": "Credential ID:",
+    "showCredential": "Show Credential"
+  },
+  "ExperienceData": {
+    "experience": "Work Experience",
+    "experienceNotFound": "Experiences details not found"
+  },
+  "CauseData": {
+    "causes": "Causes"
+  },
+  "ProjectData": {
+    "work": "Work",
+    "impact": "Impact",
+    "noProject": "Project details not found!",
+    "project": "Projects",
+    "projectIdeas": "Project Recommendations"
+  },
+  "Awards": {
+    "title": "Achievements and Awards",
+    "awardNotFound": "Award details not found!"
+  },
+  "ReviewModal": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "pending": "Pending",
+    "reviewSuccess": "Review submitted successfully",
+    "emptyReview": "Review Cannot be empty."
+  },
+  "SocialMedia": {
+    "social": "Social Media"
+  },
+  "Preference": {
+    "preference": "Preference"
+  },
+  "ReviewButton": {
+    "reviewAdded": "Review Added",
+    "reviewFailed": "Review Failed to Add",
+    "addReview": "Add a review",
+    "myReviews": "My Review(s)",
+    "profileReviews": "Profile Review(s)",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "resolved": "Resolved"
+  }
+}

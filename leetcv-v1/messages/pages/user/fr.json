@@ -1,0 +1,9 @@
+{
+  "UserName": {
+    "claimUserName": "Claim a username for your resume",
+    "exists": "Already exists. Try another.",
+    "available": "Available",
+    "userNameHint": "You can use letters, numbers & underscores '_'.",
+    "claimButton": "Claim Username"
+  }
+}

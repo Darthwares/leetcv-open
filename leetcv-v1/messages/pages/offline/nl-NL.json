@@ -1,0 +1,17 @@
+{
+  "Offline": {
+    "title": "LeetCV | Offline",
+    "pageNotFound": "Page not found",
+    "404": "404",
+    "tryAgain": "Please check the URL in the address bar and try again.",
+    "back": "Go back home",
+    "contact": "Contact support"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "managedBy": " - Managed by Darthwares",
+    "footer": "Copyright",
+    "downloadApp": "Download the app",
+    "scanQrCode": "Scan the QR code to download the app."
+  }
+}

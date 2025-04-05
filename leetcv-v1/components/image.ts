@@ -1,0 +1,1 @@
+export const PLACE_HOLDER = '/assets/avatars/placeholder-image.webp'

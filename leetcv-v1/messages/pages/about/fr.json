@@ -1,0 +1,23 @@
+{
+  "AboutUs": {
+    "policy": "Policy",
+    "policyDesc": "We are focused on fighting for developer rights by shaping the policies that promote their interests and the future.",
+    "social": "Social Impact",
+    "socialDesc": "Learn about how LeetCV's people, products, and platform that are creating positive and lasting change around the world.",
+    "resumes": "Resumes",
+    "countries": "Countries",
+    "projects": "Projects",
+    "skills": "Skills",
+    "title": "About | LeetCV",
+    "headingOne": "Where the world builds the Resume",
+    "paragraph": "It's time to elevate your job search to the next level. The traditional PDF resume has served us well for the past 20 years, but it's time to embrace the future of resumes. Introducing mobile-responsive, sharable, and passcode-protected resumes that are designed to adapt to different screen sizes, providing a seamless reading experience on any device. These new-age resumes are not just easily shareable but also provide an added layer of security with passcode protection, ensuring that your personal information remains confidential. Upgrade your resume today and make a lasting impression on potential employers.",
+    "followUs": "Follow us on"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "managedBy": " - Managed by Darthwares",
+    "footer": "Copyright",
+    "downloadApp": "Download the app",
+    "scanQrCode": "Scan the QR code to download the app."
+  }
+}
